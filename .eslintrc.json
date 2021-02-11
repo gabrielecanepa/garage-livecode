@@ -6,6 +6,9 @@
   "rules": {
     "quotes": "off",
     "comma-dangle": "off",
-    "no-console": "off"
+    "no-console": "off",
+    "no-restricted-globals": "off",
+    "no-alert": "off",
+    "arrow-body-style": "off"
   }
 }
